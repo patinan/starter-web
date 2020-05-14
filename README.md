@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple web project. Add a line for rebasing, then morechanges from my feature branch.
+This is a simple web project. Update for emergeency fix after stash.
 
 ## Introduction
 
